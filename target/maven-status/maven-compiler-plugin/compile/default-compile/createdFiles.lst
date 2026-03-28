@@ -1,0 +1,5 @@
+com\dataminer\App.class
+com\dataminer\template\DataMiner.class
+com\dataminer\miners\DocMiner.class
+com\dataminer\miners\CsvMiner.class
+com\dataminer\miners\PdfMiner.class
